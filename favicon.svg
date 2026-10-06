@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(50, 50)">
+    <!-- Loop 1 (0°) -->
+    <path d="M 0,-7 C -2.5,-12 -5,-19 -5,-22 A 5,5 0 0,1 5,-22 C 5,-19 2.5,-12 0,-7 Z" transform="rotate(0)" />
+    <!-- Loop 2 (60°) -->
+    <path d="M 0,-7 C -2.5,-12 -5,-19 -5,-22 A 5,5 0 0,1 5,-22 C 5,-19 2.5,-12 0,-7 Z" transform="rotate(60)" />
+    <!-- Loop 3 (120°) -->
+    <path d="M 0,-7 C -2.5,-12 -5,-19 -5,-22 A 5,5 0 0,1 5,-22 C 5,-19 2.5,-12 0,-7 Z" transform="rotate(120)" />
+    <!-- Loop 4 (180°) -->
+    <path d="M 0,-7 C -2.5,-12 -5,-19 -5,-22 A 5,5 0 0,1 5,-22 C 5,-19 2.5,-12 0,-7 Z" transform="rotate(180)" />
+    <!-- Loop 5 (240°) -->
+    <path d="M 0,-7 C -2.5,-12 -5,-19 -5,-22 A 5,5 0 0,1 5,-22 C 5,-19 2.5,-12 0,-7 Z" transform="rotate(240)" />
+    <!-- Loop 6 (300°) -->
+    <path d="M 0,-7 C -2.5,-12 -5,-19 -5,-22 A 5,5 0 0,1 5,-22 C 5,-19 2.5,-12 0,-7 Z" transform="rotate(300)" />
+  </g>
+</svg>
